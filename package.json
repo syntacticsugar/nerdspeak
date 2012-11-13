@@ -1,0 +1,11 @@
+
+{
+  "name": "nerdspeak",
+  "description": "visualisation of top nerd-bleats",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "pg": "0.8.7"
+  }
+}
